@@ -1,0 +1,16 @@
+.footerSection {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  display: block;
+}
+
+.footerSection p {
+  margin: 0;
+}
+
+.link {
+  text-decoration: underline;
+  color: white;
+}
